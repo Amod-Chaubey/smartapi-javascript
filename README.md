@@ -1,4 +1,4 @@
-# SmartAPI Javascript Client SDK
+# SmartAPI Javascript Client SDK TEST
 
 ## Installation
 ```bash
